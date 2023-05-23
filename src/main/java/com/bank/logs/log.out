@@ -1,0 +1,85 @@
+2023-05-22 16:05:835 INFO  CustomersPage :25 - Click on customer login tab
+2023-05-22 16:05:280 INFO  OpenAccountPage :36 - Search customer that created in first Test :[[ChromeDriver: chrome on WINDOWS (dc84911763c16fdd22ca6ac960ffca7e)] -> css selector: #userSelect]
+2023-05-22 16:05:369 INFO  CustomerLoginPage :30 - Click on Login Button
+2023-05-22 16:05:684 INFO  CustomerLoginPage :36 - Click on LogOut
+2023-05-22 16:05:906 INFO  CustomersPage :25 - Click on customer login tab
+2023-05-22 16:05:356 INFO  OpenAccountPage :36 - Search customer that created in first Test :[[ChromeDriver: chrome on WINDOWS (56750e2c93c4dbe95f1acd10df6d3da3)] -> css selector: #userSelect]
+2023-05-22 16:05:428 INFO  CustomerLoginPage :30 - Click on Login Button
+2023-05-22 16:05:807 INFO  AccountPage :46 - Click on Deposit tab
+2023-05-22 16:05:135 INFO  AccountPage :52 - Enter amount 100 : [[ChromeDriver: chrome on WINDOWS (56750e2c93c4dbe95f1acd10df6d3da3)] -> xpath: //input[@placeholder='amount']]
+2023-05-22 16:05:242 INFO  AccountPage :58 - Click on Deposit Button
+2023-05-22 16:05:609 INFO  CustomersPage :25 - Click on customer login tab
+2023-05-22 16:05:159 INFO  OpenAccountPage :36 - Search customer that created in first Test :[[ChromeDriver: chrome on WINDOWS (06a285cf8a2416ad2744aa67d580daff)] -> css selector: #userSelect]
+2023-05-22 16:05:221 INFO  CustomerLoginPage :30 - Click on Login Button
+2023-05-22 16:05:388 INFO  HomePage :28 - Click on Add customer tab
+2023-05-22 16:05:912 INFO  AddCustomerPage :37 - Enter First Name : Seema
+2023-05-22 16:05:38 INFO  AddCustomerPage :43 - Enter Last Name :Patel
+2023-05-22 16:05:169 INFO  AddCustomerPage :49 - Enter PostCode :HA9 3JJ
+2023-05-22 16:05:271 INFO  AddCustomerPage :55 - Click on Add Customer Button 
+2023-05-22 16:05:525 INFO  HomePage :34 - Click on open Account Tab
+2023-05-22 16:05:128 INFO  OpenAccountPage :36 - Search customer that created in first Test :[[ChromeDriver: chrome on WINDOWS (da45d5999d20c2bddb0350147aadbbf6)] -> css selector: #userSelect]
+2023-05-22 16:05:301 INFO  OpenAccountPage :42 - Select Currency : By.xpath: //select[@id='currency']
+2023-05-22 16:05:458 INFO  OpenAccountPage :48 - Click on Process
+2023-05-22 16:05:364 INFO  CustomersPage :25 - Click on customer login tab
+2023-05-22 16:05:727 INFO  OpenAccountPage :36 - Search customer that created in first Test :[[ChromeDriver: chrome on WINDOWS (162e050fc514a2aba47d2eb221b474d9)] -> css selector: #userSelect]
+2023-05-22 16:05:824 INFO  CustomerLoginPage :30 - Click on Login Button
+2023-05-22 16:05:293 INFO  CustomerLoginPage :36 - Click on LogOut
+2023-05-22 16:05:379 INFO  CustomersPage :25 - Click on customer login tab
+2023-05-22 16:05:661 INFO  OpenAccountPage :36 - Search customer that created in first Test :[[ChromeDriver: chrome on WINDOWS (18901bc075d84493cfb7424b0f694dac)] -> css selector: #userSelect]
+2023-05-22 16:05:737 INFO  CustomerLoginPage :30 - Click on Login Button
+2023-05-22 16:05:05 INFO  AccountPage :46 - Click on Deposit tab
+2023-05-22 16:05:260 INFO  AccountPage :52 - Enter amount 100 : [[ChromeDriver: chrome on WINDOWS (18901bc075d84493cfb7424b0f694dac)] -> xpath: //input[@placeholder='amount']]
+2023-05-22 16:05:456 INFO  AccountPage :58 - Click on Deposit Button
+2023-05-22 16:05:373 INFO  CustomersPage :25 - Click on customer login tab
+2023-05-22 16:05:771 INFO  OpenAccountPage :36 - Search customer that created in first Test :[[ChromeDriver: chrome on WINDOWS (33ad1358940bda1c02d02d703f4a5436)] -> css selector: #userSelect]
+2023-05-22 16:05:851 INFO  CustomerLoginPage :30 - Click on Login Button
+2023-05-22 16:05:400 INFO  HomePage :28 - Click on Add customer tab
+2023-05-22 16:05:807 INFO  AddCustomerPage :37 - Enter First Name : Seema
+2023-05-22 16:05:902 INFO  AddCustomerPage :43 - Enter Last Name :Patel
+2023-05-22 16:05:996 INFO  AddCustomerPage :49 - Enter PostCode :HA9 3JJ
+2023-05-22 16:05:174 INFO  AddCustomerPage :55 - Click on Add Customer Button 
+2023-05-22 16:05:498 INFO  HomePage :34 - Click on open Account Tab
+2023-05-22 16:05:247 INFO  OpenAccountPage :36 - Search customer that created in first Test :[[ChromeDriver: chrome on WINDOWS (a8fc844cb6e5c9dbfda8a8fe4ef174de)] -> css selector: #userSelect]
+2023-05-22 16:05:384 INFO  OpenAccountPage :42 - Select Currency : By.xpath: //select[@id='currency']
+2023-05-22 16:05:439 INFO  OpenAccountPage :48 - Click on Process
+2023-05-22 16:05:349 INFO  CustomersPage :25 - Click on customer login tab
+2023-05-22 16:05:686 INFO  OpenAccountPage :36 - Search customer that created in first Test :[[ChromeDriver: chrome on WINDOWS (a819530c8d5c5537ae567d708ef7e238)] -> css selector: #userSelect]
+2023-05-22 16:05:774 INFO  CustomerLoginPage :30 - Click on Login Button
+2023-05-22 16:05:81 INFO  CustomerLoginPage :36 - Click on LogOut
+2023-05-22 16:05:786 INFO  CustomersPage :25 - Click on customer login tab
+2023-05-22 16:05:452 INFO  OpenAccountPage :36 - Search customer that created in first Test :[[ChromeDriver: chrome on WINDOWS (4e33a70a56fc9f66b651b9b6cf10fbe6)] -> css selector: #userSelect]
+2023-05-22 16:05:536 INFO  CustomerLoginPage :30 - Click on Login Button
+2023-05-22 16:05:832 INFO  AccountPage :46 - Click on Deposit tab
+2023-05-22 16:05:63 INFO  AccountPage :52 - Enter amount 100 : [[ChromeDriver: chrome on WINDOWS (4e33a70a56fc9f66b651b9b6cf10fbe6)] -> xpath: //input[@placeholder='amount']]
+2023-05-22 16:05:137 INFO  AccountPage :58 - Click on Deposit Button
+2023-05-22 16:05:554 INFO  CustomersPage :25 - Click on customer login tab
+2023-05-22 17:05:227 INFO  OpenAccountPage :36 - Search customer that created in first Test :[[ChromeDriver: chrome on WINDOWS (a1f099e3949c053eab5d7683927866da)] -> css selector: #userSelect]
+2023-05-22 17:05:332 INFO  CustomerLoginPage :30 - Click on Login Button
+2023-05-22 17:05:634 INFO  AccountPage :64 - Click on withdrawal tab
+2023-05-22 17:05:897 INFO  AccountPage :52 - Enter amount 100 : [[ChromeDriver: chrome on WINDOWS (a1f099e3949c053eab5d7683927866da)] -> xpath: //input[@placeholder='amount']]
+2023-05-22 17:05:106 INFO  AccountPage :76 - Click in withdraw button
+2023-05-22 17:05:439 INFO  HomePage :28 - Click on Add customer tab
+2023-05-22 17:05:787 INFO  AddCustomerPage :37 - Enter First Name : Seema
+2023-05-22 17:05:958 INFO  AddCustomerPage :43 - Enter Last Name :Patel
+2023-05-22 17:05:79 INFO  AddCustomerPage :49 - Enter PostCode :HA9 3JJ
+2023-05-22 17:05:184 INFO  AddCustomerPage :55 - Click on Add Customer Button 
+2023-05-22 17:05:715 INFO  HomePage :34 - Click on open Account Tab
+2023-05-22 17:05:99 INFO  OpenAccountPage :36 - Search customer that created in first Test :[[ChromeDriver: chrome on WINDOWS (6f4af249602df0d2f048f1c589820566)] -> css selector: #userSelect]
+2023-05-22 17:05:227 INFO  OpenAccountPage :42 - Select Currency : By.xpath: //select[@id='currency']
+2023-05-22 17:05:303 INFO  OpenAccountPage :48 - Click on Process
+2023-05-22 17:05:827 INFO  CustomersPage :25 - Click on customer login tab
+2023-05-22 17:05:281 INFO  OpenAccountPage :36 - Search customer that created in first Test :[[ChromeDriver: chrome on WINDOWS (1f537fbbb31818e53b998a4dfda23f3d)] -> css selector: #userSelect]
+2023-05-22 17:05:360 INFO  CustomerLoginPage :30 - Click on Login Button
+2023-05-22 17:05:958 INFO  CustomerLoginPage :36 - Click on LogOut
+2023-05-22 17:05:101 INFO  CustomersPage :25 - Click on customer login tab
+2023-05-22 17:05:396 INFO  OpenAccountPage :36 - Search customer that created in first Test :[[ChromeDriver: chrome on WINDOWS (aa55545f6382133224dee0789b7f344d)] -> css selector: #userSelect]
+2023-05-22 17:05:469 INFO  CustomerLoginPage :30 - Click on Login Button
+2023-05-22 17:05:855 INFO  AccountPage :46 - Click on Deposit tab
+2023-05-22 17:05:127 INFO  AccountPage :52 - Enter amount 100 : [[ChromeDriver: chrome on WINDOWS (aa55545f6382133224dee0789b7f344d)] -> xpath: //input[@placeholder='amount']]
+2023-05-22 17:05:200 INFO  AccountPage :58 - Click on Deposit Button
+2023-05-22 17:05:145 INFO  CustomersPage :25 - Click on customer login tab
+2023-05-22 17:05:651 INFO  OpenAccountPage :36 - Search customer that created in first Test :[[ChromeDriver: chrome on WINDOWS (51c8ee0dd34756c3e2b65c47987f529f)] -> css selector: #userSelect]
+2023-05-22 17:05:725 INFO  CustomerLoginPage :30 - Click on Login Button
+2023-05-22 17:05:01 INFO  AccountPage :64 - Click on withdrawal tab
+2023-05-22 17:05:357 INFO  AccountPage :52 - Enter amount 100 : [[ChromeDriver: chrome on WINDOWS (51c8ee0dd34756c3e2b65c47987f529f)] -> xpath: //input[@placeholder='amount']]
+2023-05-22 17:05:508 INFO  AccountPage :76 - Click in withdraw button
